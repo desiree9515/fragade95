@@ -3,9 +3,9 @@
 </h2>
 <p align="center">🚀 Welcome to my profile!</p>
 
-🎓 Formation
-* [FATEC Guaratinguetá - SP](#FATEC-Guaratinguetá-SP)
-      * [Information Technology Management - 📆 2017 to 2020](#Information-Technology-Management)
+<h3>🎓 Formation</h3>
+* FATEC Guaratinguetá - SP
+      * Information Technology Management - 📆 2017 to 2020
 <!--
 **fragadesiree/fragadesiree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
