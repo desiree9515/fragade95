@@ -7,7 +7,7 @@
    * FATEC Guaratinguetá - SP
       * Gestão da Tecnologia da Informação - 📆 2017 a 2020
       
-Formação
+<b>🎓 Formação</b>
    * FATEC Guaratinguetá - SP
       * Gestão da Tecnologia da Informação - 📆 2017 a 2020
     
