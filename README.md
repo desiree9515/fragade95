@@ -8,7 +8,7 @@
       * Gestão da Tecnologia da Informação - 📆 2017 a 2020
       
 Trabalho
-    * Ahahaha
+   * Ahahaha
     
 💼 Trabalho
    * Atualmente faço estágio na empresa BASF S/A na área de digitalização das operações
