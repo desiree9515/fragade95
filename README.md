@@ -4,10 +4,6 @@
 <p align="center">🚀 Welcome to my profile!</p>
 
 <h3>🎓 Formation</h3>
- <li>FATEC Guaratinguetá - SP</li>
-      <li>Information Technology Management - 📆 2017 to 2020</li>
-      
-      
    * FATEC Guaratinguetá - SP
       * Information Technology Management - 📆 2017 to 2020
      
