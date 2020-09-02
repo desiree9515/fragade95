@@ -5,8 +5,7 @@
 
 <h3>🎓 Formation</h3>
 
-    * FATEC Guaratinguetá - SP
-      * Information Technology Management - 📆 2017 to 2020* [Sobre](#Sobre)
+    
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * FATEC Guaratinguetá - SP
