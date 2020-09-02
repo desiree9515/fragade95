@@ -6,8 +6,7 @@
 <h3>🎓 Formation</h3>
 
     
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
+   
    * FATEC Guaratinguetá - SP
       * Information Technology Management - 📆 2017 to 2020
       * [Local files](#local-files)
