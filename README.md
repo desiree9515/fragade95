@@ -4,9 +4,10 @@
 <p align="center">🚀 Welcome to my profile!</p>
 
 <h3>🎓 Formation</h3>
-    * [Sobre](#Sobre)
     * FATEC Guaratinguetá - SP
       * Information Technology Management - 📆 2017 to 2020
+ * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
      
    
 <!--
