@@ -1,12 +1,12 @@
 <h1 align="left">
     Olá 👋
 </h1>
-<p align="left"><b>🚀 Bem-vindo(a) ao meu perfil!<b/></p>
+<h2 align="left">🚀 Bem-vindo(a) ao meu perfil!</h2>
 
-<h3>🎓 Formation</h3>   
+<b>🎓 Formação</b>   
 
    * FATEC Guaratinguetá - SP
-      * Information Technology Management - 📆 2017 to 2020
+      * Gestão da Tecnologia da Informação - 📆 2017 a 2020
      
 <!--
 **fragadesiree/fragadesiree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
