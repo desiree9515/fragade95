@@ -1,10 +1,11 @@
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">Hi there 👋</a>
-</h1>
+<h2 align="center">
+    Hi there 👋
+</h2>
 <p align="center">🚀 Welcome to my profile!</p>
 
-### Hi there 👋
-
+🎓 Formation
+* [FATEC Guaratinguetá - SP](#FATEC-Guaratinguetá-SP)
+      * [Information Technology Management - 📆 2017 to 2020](#Information-Technology-Management)
 <!--
 **fragadesiree/fragadesiree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
