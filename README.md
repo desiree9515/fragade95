@@ -9,8 +9,8 @@
       * Information Technology Management - 📆 2017 to 2020* [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
+   * FATEC Guaratinguetá - SP
+      * Information Technology Management - 📆 2017 to 2020
       * [Local files](#local-files)
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
