@@ -1,11 +1,8 @@
 <h1 align="left">
     Olá, bem-vindo(a) ao meu perfil! 👋
 </h1>
-<br/><br/><br/>
-<b>🎓 Formação</b>
 
-   * FATEC Guaratinguetá - SP
-      * Gestão da Tecnologia da Informação - 📆 2017 a 2020
+<br/><br/><br/>
       
 <b>🎓 Formação</b>
    * FATEC Guaratinguetá - SP
