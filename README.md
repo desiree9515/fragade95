@@ -9,16 +9,8 @@
       
       
    * FATEC Guaratinguetá - SP
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
       * Information Technology Management - 📆 2017 to 2020
-      * [Local files]
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+     
    
 <!--
 **fragadesiree/fragadesiree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
