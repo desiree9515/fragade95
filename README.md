@@ -8,12 +8,12 @@
       <li>Information Technology Management - 📆 2017 to 2020</li>
       
       
-   * [Sobre](#Sobre)
+   * (#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
+      * [Pre Requisitos]
+      * [Local files]
       * [Remote files](#remote-files)
       * [Multiple files](#multiple-files)
       * [Combo](#combo)
