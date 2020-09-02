@@ -1,7 +1,7 @@
-<h2 align="center">
-    Hi there 👋
+<h2 align="left">
+    Olá 👋
 </h2>
-<p align="center">🚀 Welcome to my profile!</p>
+<p align="left">🚀 Bem-vindo(a) ao meu perfil!</p>
 
 <h3>🎓 Formation</h3>   
 
