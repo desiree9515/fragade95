@@ -1,7 +1,6 @@
 <h1 align="left">
-    Olá 👋
+    Olá, bem-vindo(a) ao meu perfil! 👋
 </h1>
-<h2 align="left">🚀 Bem-vindo(a) ao meu perfil!</h2>
 
 <b>🎓 Formação</b>   
 
