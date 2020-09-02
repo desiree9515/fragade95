@@ -6,7 +6,8 @@
 <h3>🎓 Formation</h3>
  <li>FATEC Guaratinguetá - SP</li>
       <li>Information Technology Management - 📆 2017 to 2020</li>
-<!--ts-->
+      
+      
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
@@ -18,7 +19,7 @@
       * [Combo](#combo)
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
-<!--te-->
+   
 <!--
 **fragadesiree/fragadesiree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
