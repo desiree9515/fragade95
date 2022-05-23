@@ -4,13 +4,7 @@
 
 <br/><br/>
       
-<b>🎓 Formação</b>
-   * FATEC Guaratinguetá - SP
-      * Gestão da Tecnologia da Informação - 📆 2017 a 2020
-    
-<b>💼 Trabalho</b>
-   * Atualmente faço estágio na empresa BASF S/A na área de digitalização das operações
-     
+<b>👷‍♀️ em construção</b>
 <!--
 **fragadesiree/fragadesiree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
